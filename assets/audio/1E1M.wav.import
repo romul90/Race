@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/1E1M.wav-e4209a270e698e6034795ae2539d516e.sample"
+
+[deps]
+
+source_file="res://assets/audio/1E1M.wav"
+source_md5="14803a1f943eedfdc15400ce8edc0711"
+
+dest_files=[ "res://.import/1E1M.wav-e4209a270e698e6034795ae2539d516e.sample" ]
+dest_md5="f83ea386343b118485bc5af8e419c11e"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
